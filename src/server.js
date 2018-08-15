@@ -1,3 +1,9 @@
+/**
+ * Adapted from Samuele Zaza https://scotch.io
+ * Authors: Brian Thompson
+ * Last edited: 8/15/08
+ */
+
 let express = require('express');
 let app = express();
 let mongoose = require('mongoose');
